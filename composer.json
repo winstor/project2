@@ -16,8 +16,5 @@
     "psr-4": {
       "Winsotr\\Project\\": "src/Winsotr/Project"
     }
-  },
-  "minimum-stability": "stable",
-  "prefer-stable": true
-
+  }
 }
